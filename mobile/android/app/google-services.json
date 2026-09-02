@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674437941938",
+    "project_id": "domismart-c6054",
+    "storage_bucket": "domismart-c6054.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674437941938:android:92ff7dddcc4c141df357ab",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2dpogLjGzq9fI2IXIW-htOT-PgSrA05g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
